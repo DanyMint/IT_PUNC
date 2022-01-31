@@ -3,6 +3,8 @@ Repository of IT_PUNC website.
 
 IT_PUNC - it is lair of programmers where they can share information, experience and knowledge.
 
+Begin from intro.html
+
 
 🔰 **Status**: in development ✏️
 
