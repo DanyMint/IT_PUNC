@@ -1,0 +1,153 @@
+*{
+    margin: 0 0 0 0;
+}
+
+body{
+    font-family: 'Press Start 2P', cursive;
+    color: #fff;
+    background-attachment: fixed;
+    display: grid;
+    background: url(../img/GL_bg.gif);
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+
+header{
+    height: 68pxs;
+}
+
+.left_bg, .right_bg{
+    height: 68px;
+    /* background: rgba(46, 134, 171, 0.6); */
+    float: left;
+    width: 540px;
+    border: #FFBC0A solid 1px ;
+    backdrop-filter: blur(10px);
+}
+
+.right_bg{
+    float: right;
+    width: 247px;
+}
+
+.left_bg{
+    width: 900px;
+}
+
+.bg_link, .GL_link{
+    position: absolute;
+    margin-top: 26px;
+    margin-left: 400px;
+    color: #FFBC0A;
+}
+.GL_link{
+    margin-left: 64px;
+}
+
+img{
+    position: relative;
+    float: right;
+    margin-right: 67px;
+    margin-top: 14px;
+    width: 145px;
+    height: 36px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;    
+}
+
+a:hover{
+    color: #C200FB;
+    cursor:pointer;
+}
+
+.link_good_links a, .DB_link a, .link_tg a, .link_ds a{
+    color: #fff;
+    font-size: 14px;
+    position: relative;
+    top: 35%;
+}
+
+.link_good_links a:hover, .DB_link a:hover, .link_tg a:hover, .link_ds a:hover{
+    color: #C200FB;
+}
+
+footer{
+    position: absolute;
+    top: 1450px;
+    width: 100%;
+}
+
+.footer_bg{
+    font-family: 'Oxanium', cursive;
+    width: 705px;
+    height: 60px;
+    font-family: 'Oxanium', cursive;
+    font-weight: 500;
+    backdrop-filter: blur(50px);
+    float: left;
+}
+
+.footer_bg ul li{
+    display: inline;
+    margin-left: 44px;
+    font-weight: 400;
+}
+
+.footer_bg ul{
+    margin-top: 2%;
+    position: absolute;
+    bottom: 25%;
+    margin-right: 30px;
+    left: 60%;
+}
+
+.footer_bg ul li a{
+    color: #fff;
+}
+
+.footer_bg ul li a:hover{
+    color: #C200FB;
+}
+
+.devby{
+    font-size: 14px;
+    position: absolute;
+    left: 150px;
+    top: 43%;
+}
+
+.opensource{
+    color: #fff;
+    font-size: 40px;
+    margin-right: 200px;
+    position: relative;
+    float:right;
+    font-family: 'Libre Barcode 128 Text', cursive;
+}
+
+.content{
+    position: relative;
+    margin: 50px 0 0 250px;
+    display: grid;
+    grid-template-columns: repeat(2, 530px);
+    grid-template-rows: repeat(6, 220px);
+}
+
+.card{
+    backdrop-filter: blur(10px);
+    border: #FFBC0A solid 3px;
+    text-align: center;
+    width: 470px;
+    height: 160px;
+    padding: 5% 3% 3% 5%;
+    line-height: 25px;
+}
+
+.card p{
+    position: absolute;
+    margin-top: 3%;
+}
+
