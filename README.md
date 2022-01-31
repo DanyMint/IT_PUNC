@@ -2,7 +2,7 @@
 Repository of IT_PUNC website. IT_PUNC - it is lair of programmers where they can share information, experience and knowledge.
 
 
-:Clockwise Gapped Circle Arrow: Status: in development
+:Clockwise_Gapped_Circle_Arrow: Status: in development
 
 ### To do:
 - **add link to this repository in website**
