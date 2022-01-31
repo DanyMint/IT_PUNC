@@ -6,7 +6,7 @@ IT_PUNC - it is lair of programmers where they can share information, experience
 
 Status: in development
 
-###To do:
+### To do:
 - **add link to this repository in website**
 - **fix the header**
 - **fix the footer**
